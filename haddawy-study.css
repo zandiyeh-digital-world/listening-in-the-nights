@@ -1,0 +1,24 @@
+.haddawy-map {display:flex;flex-wrap:wrap;align-content:center;justify-content:center;align-items:baseline;gap:.3rem .55rem;min-height:12rem;margin:.8rem 0 1rem;padding:1rem;background:#f8f5ed;color:#26384c;border:1px solid #ded7c7}
+.haddawy-map button {border:0;background:transparent;color:#176592;font:800 calc(.88rem + var(--weight) * clamp(1rem,3vw,2.1rem))/1.1 system-ui,sans-serif;text-transform:uppercase;padding:.3rem;min-height:40px;cursor:pointer}
+.haddawy-map button:nth-child(3n+2) {color:#176c62}
+.haddawy-map button:nth-child(3n) {color:#8a4118}
+.haddawy-map button[aria-pressed=true],.haddawy-map button:hover {text-decoration:underline;text-underline-offset:.15em}
+.haddawy-map small {font-size:.65rem;margin-left:.25rem;color:#26384c}
+.haddawy-table {width:100%;max-width:none}
+#haddawy-word-evidence a {color:var(--gold)}
+
+.map-comparison {grid-template-columns: minmax(0, 1fr);}
+.map-comparison > section {min-width: 0;}
+@media (min-width: 760px) {
+  .map-comparison:has(> section:not([hidden]) ~ section:not([hidden])) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .map-comparison > section {
+    display: grid;
+    grid-row: span 2;
+    grid-template-rows: subgrid;
+    row-gap: .8rem;
+  }
+  .map-comparison .haddawy-map {margin-top: 0;}
+}
+.haddawy-map button {max-width: 100%; overflow-wrap: anywhere;}

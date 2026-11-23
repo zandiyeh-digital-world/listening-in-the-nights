@@ -1,0 +1,19 @@
+#passage {width:100%;resize:vertical;padding:.9rem;background:var(--surface);color:var(--cream);border:1px solid var(--rule);font:inherit}
+#input-form .lab-controls {align-items:end}
+#text-file {max-width:100%;font:inherit}
+.text-note {font-size:.9rem;color:var(--muted)}
+.text-section {padding:clamp(1.2rem,4vw,3rem) 0;border-bottom:1px solid var(--rule)}
+.text-visuals {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem}
+.text-visuals h3 {margin-bottom:.75rem}
+#text-bars {display:grid;gap:.5rem}
+.story-lab button.text-bar {width:100%;text-align:left;border-bottom:4px solid transparent;border-image:linear-gradient(90deg,var(--gold) var(--fill),var(--rule) var(--fill)) 1}
+#records {display:grid;gap:1rem}
+#records article {padding:1rem;background:var(--surface);border:1px solid var(--rule)}
+#records input {background:var(--night);color:var(--cream);border:1px solid var(--rule);padding:.45rem;font:inherit;max-width:100%}
+#records blockquote {margin-inline:0;padding-left:1rem;border-left:2px solid var(--gold)}
+#evidence-heading,#visuals {scroll-margin-top:1rem}
+#text-graph svg {width:100%;max-height:30rem;background:#101826}
+#text-graph line {stroke:var(--gold);opacity:.65}
+#text-graph circle {fill:var(--gold)}
+#text-graph text {fill:var(--cream);font:15px var(--sans);paint-order:stroke;stroke:#101826;stroke-width:4px}
+@media(max-width:760px) {.text-visuals {grid-template-columns:1fr}}

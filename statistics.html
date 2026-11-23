@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Statistics &amp; Word Maps | Listening in the Nights</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="gender-study.css"><link rel="stylesheet" href="haddawy-study.css"><script src="gender-word-data.js" defer></script><script src="gender-study.js" defer></script><script src="haddawy-study.js" defer></script><script src="statistics.js" defer></script></head>
+<body><a class="skip" href="#main">Skip to content</a><header class="masthead"><a class="wordmark" href="index.html">Listening in the Nights</a><nav aria-label="Exhibition"><a href="index.html#agency">Read the tales</a><a href="story-analysis.html">Character &amp; language analysis</a><a href="#stats-sources">Sources</a></nav></header>
+<main id="main"><section class="study-section"><h1 class="chapter-title">Statistics &amp; <em>Word Maps</em></h1><p>Explore how the tales describe their characters, who speaks, and whose actions change the plot.</p><div class="study-controls"><label>Edition <select id="stats-edition"><option value="haddawy">Husain Haddawy</option><option value="lang" selected>Andrew Lang</option></select></label><label>View <select id="stats-mode"><option value="pair">Compare two stories</option><option value="single" selected>Analyze one story</option></select></label><label>Story <select id="stats-story"><option value="">Whole volume</option></select></label><label id="stats-second-control" hidden>Compare with <select id="stats-second"><option value="apples">The Three Apples</option></select></label><label>Measure <select id="stats-measure"><option value="adjectives">Adjectives</option><option value="speech">Speech</option><option value="decisions">Decisions</option><option value="cast">Cast</option></select></label></div>
+<noscript><p>Enable JavaScript to use the filters, or <a href="haddawy-study.html#comparison">read the source tables</a>.</p></noscript>
+<div class="study-controls"><label id="baghdad-control">Baghdad scope <select id="baghdad-scope"><option value="house">Household and court</option><option value="full">Full cycle with dervishes</option></select></label></div><div id="haddawy-words"><div class="study-controls"><label id="map-label-scope">Word map scope <select id="haddawy-gender"><option value="female">Female references</option><option value="male">Male references</option><option value="all">All references</option></select></label></div>
+<div class="study-columns map-comparison"><section id="stats-baghdad" aria-labelledby="baghdad-map-title"><h2 id="baghdad-map-title">The women of Baghdad</h2><div class="haddawy-map" id="baghdad-map"></div></section><section id="stats-apples" aria-labelledby="apples-map-title"><h2 id="apples-map-title">The women in <cite>The Three Apples</cite></h2><div class="haddawy-map" id="apples-map"></div></section><section hidden><h2>Shahrazad and Shahryar</h2><div class="haddawy-map" id="frame-map"></div></section><section hidden><h2>The Fisherman and the Demon</h2><div class="haddawy-map" id="fisherman-map"></div></section></div>
+<section class="study-register" aria-labelledby="word-evidence-title"><h3 id="word-evidence-title">Selected adjective</h3><div id="haddawy-word-evidence" aria-live="polite"></div></section></div>
+<div id="lang-words" hidden>    <div class="study-controls">
+      <label>Cloud scope <select id="word-side"><option value="0">Female labels</option><option value="1">Male labels</option><option value="all">All labels</option></select></label>
+      <label>Adjective category <select id="word-category"><option value="">All categories</option></select></label>
+      <label>Description type <select id="word-construction"><option value="">All types</option><option value="attributive">Before a noun</option><option value="predicate" selected>After a linking verb (noun or pronoun)</option><option value="named">Named character or alias</option></select></label>
+      <label>Character <select id="word-character"><option value="">All matches</option><option value="unlinked">Without a cast link</option></select></label>
+      <label hidden>Story section <select id="word-section"><option value="">Whole volume</option></select></label>
+    </div>
+    <p id="word-total" class="word-meta" aria-live="polite"></p>
+    <div id="word-map" class="packed-cloud" aria-label="Adjective frequency cloud"></div>
+    <p><a id="word-context-link" href="#word-reader-title">Read passages for the selected adjective ↓</a></p>
+    <section class="word-comparison" aria-labelledby="word-compare-title">
+      <h3 id="word-compare-title">Compare descriptions</h3>
+      <p>The cloud scope changes the words shown above. The comparison and passages retain both groups. Shares use each group’s matches in the selected story, description type, and character scope, across all adjective categories. A dash indicates an empty denominator.</p>
+      <div id="category-summary"></div>
+      <details class="study-register"><summary>Compare individual adjectives</summary>
+      <div class="comparison-scroll"><table class="study-table word-table">
+        <caption>Adjectives by gendered label</caption>
+        <thead><tr><th scope="col">Adjective</th><th scope="col">Female labels</th><th scope="col">Male labels</th></tr></thead>
+        <tbody id="word-comparison"></tbody>
+      </table></div></details>
+    </section>
+    <details class="word-reader study-register" id="word-reader-title">
+      <summary>Read selected adjective in context</summary>
+      <p id="word-evidence" class="study-evidence" aria-live="polite"></p>
+      <div id="word-passages"></div>
+    </details>
+</div>
+<div id="stats-result"></div>
+</section>
+<section class="sources" id="stats-sources"><h2>Sources and methods</h2><p>Haddawy’s translation and Lang’s selection are separate corpora. Adjective matches use fixed word lists and grammatical patterns. Speech, selected decisions, and cast rosters follow the rules documented for each edition.</p><p><a href="haddawy-study.html#sources">Haddawy sources and methods</a> · <a href="gender-method.html">Lang sources and methods</a> · <a href="haddawy-study-data.json" download>Haddawy data</a> · <a href="gender-study-data.json" download>Lang data</a></p></section>
+</main><footer>Listening in the Nights <a href="index.html">Exhibition home ↑</a><small class="copyright">© Zahra Zandiyeh. All rights reserved.</small></footer></body></html>

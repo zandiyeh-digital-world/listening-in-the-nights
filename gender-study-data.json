@@ -1,0 +1,5497 @@
+{
+  "source": "https://www.gutenberg.org/cache/epub/128/pg128.txt",
+  "edition": "Andrew Lang, selector and editor. Longmans, Green and Co., 1918 (1898), Project Gutenberg #128",
+  "castTotals": [
+    99,
+    185,
+    20
+  ],
+  "decisionTotals": {
+    "F": 15,
+    "M": 18,
+    "N": 1
+  },
+  "headedTellingTotals": {
+    "F": 2,
+    "M": 21,
+    "N": 0
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "The Arabian Nights",
+      "cast": [
+        [
+          {
+            "label": "Scheherazade",
+            "count": 1
+          },
+          {
+            "label": "Dinarzade",
+            "count": 1
+          },
+          {
+            "label": "Schahriar's first wife",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Schahriar",
+            "count": 1
+          },
+          {
+            "label": "Schahzeman (frame)",
+            "count": 1
+          },
+          {
+            "label": "Father of Schahriar and Schahzeman",
+            "count": 1
+          },
+          {
+            "label": "Grand-vizir (frame)",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Scheherazade",
+        "Volunteers to marry Schahriar and arranges the dawn request with Dinarzade."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "F",
+          "Scheherazade",
+          "Tells the sequence to Schahriar, beginning with the merchant.",
+          "Frame"
+        ]
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Story of the Merchant and the Genius",
+      "cast": [
+        [
+          {
+            "label": "Merchant's wife",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Merchant",
+            "count": 1
+          },
+          {
+            "label": "First old man",
+            "count": 1
+          },
+          {
+            "label": "Second old man",
+            "count": 1
+          },
+          {
+            "label": "Third old man",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Merchant's children (number unspecified)",
+            "count": null
+          }
+        ]
+      ],
+      "decision": [
+        "M",
+        "Schahriar",
+        "Postpones the execution to hear the continuation."
+      ],
+      "headedTeller": [
+        "F",
+        "Scheherazade"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 3,
+      "title": "The Story of the First Old Man and of the Hind",
+      "cast": [
+        [
+          {
+            "label": "First old man's wife (hind)",
+            "count": 1
+          },
+          {
+            "label": "Enslaved mother (cow)",
+            "count": 1
+          },
+          {
+            "label": "Steward's daughter",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Adopted son (calf)",
+            "count": 1
+          },
+          {
+            "label": "Steward",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Steward’s daughter",
+        "Sets terms for restoring the boy and reverses the spell."
+      ],
+      "headedTeller": [
+        "M",
+        "First old man"
+      ],
+      "otherAccounts": [
+        [
+          "M",
+          "Third old man",
+          "Tells a story whose content Scheherazade withholds.",
+          "Reported"
+        ]
+      ]
+    },
+    {
+      "number": 4,
+      "title": "The Story of the Second Old Man, and of the Two Black Dogs",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Second old man's elder brother (dog)",
+            "count": 1
+          },
+          {
+            "label": "Second old man's younger brother (dog)",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "N",
+        "Fairy wife",
+        "Rescues her husband and transforms his brothers."
+      ],
+      "headedTeller": [
+        "M",
+        "Second old man"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 5,
+      "title": "The Story of the Fisherman",
+      "cast": [
+        [
+          {
+            "label": "Fisherman's wife",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Fisherman",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Fisherman's three children",
+            "count": 3
+          }
+        ]
+      ],
+      "decision": [
+        "M",
+        "Fisherman",
+        "Challenges the genius to prove he fitted in the vessel, then shuts it."
+      ],
+      "headedTeller": [
+        "F",
+        "Scheherazade"
+      ],
+      "otherAccounts": [
+        [
+          "N",
+          "Genius in the vessel",
+          "Recounts his captivity and successive vows to the fisherman.",
+          "Direct"
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "title": "The Story of the Greek King and the Physician Douban",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Greek king",
+            "count": 1
+          },
+          {
+            "label": "Douban",
+            "count": 1
+          },
+          {
+            "label": "Greek king's vizir",
+            "count": 1
+          },
+          {
+            "label": "King Sindbad",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Douban",
+        "Designs a treatment delivered through a polo club."
+      ],
+      "headedTeller": [
+        "M",
+        "Fisherman"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 7,
+      "title": "The Story of the Husband and the Parrot",
+      "cast": [
+        [
+          {
+            "label": "Parrot owner's wife",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Parrot owner",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Three enslaved attendants",
+            "count": 3
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Parrot owner’s wife",
+        "Stages an artificial storm to discredit the parrot’s report."
+      ],
+      "headedTeller": [
+        "M",
+        "Greek king"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 8,
+      "title": "The Story of the Vizir Who Was Punished",
+      "cast": [
+        [
+          {
+            "label": "Palace cook",
+            "count": 1
+          },
+          {
+            "label": "Girl who speaks to the fish",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Hunting prince",
+            "count": 1
+          },
+          {
+            "label": "Hunting prince's father",
+            "count": 1
+          },
+          {
+            "label": "Hunting prince's vizir",
+            "count": 1
+          },
+          {
+            "label": "Sultan who buys the fish",
+            "count": 1
+          },
+          {
+            "label": "Sultan's vizir",
+            "count": 1
+          },
+          {
+            "label": "Douban's executioner",
+            "count": 1
+          },
+          {
+            "label": "Minister who fetches Douban",
+            "count": 1
+          },
+          {
+            "label": "Man who speaks to the fish",
+            "count": 1
+          },
+          {
+            "label": "Young king of the Black Isles",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sultan who buys the fish",
+        "Goes alone to investigate the enchanted lake."
+      ],
+      "headedTeller": [
+        "M",
+        "Greek king’s vizir"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 9,
+      "title": "The Story of the Young King of the Black Isles",
+      "cast": [
+        [
+          {
+            "label": "Queen of the Black Isles",
+            "count": 1
+          },
+          {
+            "label": "First maid",
+            "count": 1
+          },
+          {
+            "label": "Second maid",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Mahmoud",
+            "count": 1
+          },
+          {
+            "label": "Queen's wounded lover",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Queen of the Black Isles",
+        "Transforms the city and its inhabitants."
+      ],
+      "headedTeller": [
+        "M",
+        "Young king of the Black Isles"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 10,
+      "title": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+      "cast": [
+        [
+          {
+            "label": "Zobeida",
+            "count": 1
+          },
+          {
+            "label": "Amina (Baghdad)",
+            "count": 1
+          },
+          {
+            "label": "Sadie (also Sadia)",
+            "count": 1
+          },
+          {
+            "label": "Zobeida's two sisters (dogs)",
+            "count": 2
+          }
+        ],
+        [
+          {
+            "label": "Porter (Baghdad)",
+            "count": 1
+          },
+          {
+            "label": "Haroun-al-Raschid",
+            "count": 1
+          },
+          {
+            "label": "Giafar",
+            "count": 1
+          },
+          {
+            "label": "Mesrour",
+            "count": 1
+          },
+          {
+            "label": "First Calender",
+            "count": 1
+          },
+          {
+            "label": "Second Calender",
+            "count": 1
+          },
+          {
+            "label": "Agib (Third Calender)",
+            "count": 1
+          },
+          {
+            "label": "Old wine seller",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Seven armed enslaved guards (gender unspecified)",
+            "count": 7
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Zobeida",
+        "Sets the terms of the porter’s stay and demands accounts when guests break them."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "M",
+          "Porter",
+          "Explains his arrival when Zobeida requires the guests to account for themselves.",
+          "Direct"
+        ]
+      ]
+    },
+    {
+      "number": 11,
+      "title": "The Story of the First Calender, Son of a King",
+      "cast": [
+        [
+          {
+            "label": "First Calender's cousin (the woman in the tomb)",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "First Calender's father",
+            "count": 1
+          },
+          {
+            "label": "First Calender's uncle",
+            "count": 1
+          },
+          {
+            "label": "First Calender's male cousin",
+            "count": 1
+          },
+          {
+            "label": "Rebel vizir",
+            "count": 1
+          },
+          {
+            "label": "Executioner who releases the prince",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Executioner",
+        "Lets the condemned prince go and tells him to leave the kingdom."
+      ],
+      "headedTeller": [
+        "M",
+        "First Calender"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 12,
+      "title": "The Story of the Second Calendar, Son of a King",
+      "cast": [
+        [
+          {
+            "label": "Captive princess",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Second Calender's father",
+            "count": 1
+          },
+          {
+            "label": "Sultan of the Indies",
+            "count": 1
+          },
+          {
+            "label": "Ambassador from the Indies",
+            "count": 1
+          },
+          {
+            "label": "Tailor",
+            "count": 1
+          },
+          {
+            "label": "Ruler hostile to the Second Calender",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Captive princess",
+        "Refuses to kill the prince when the genius demands it."
+      ],
+      "headedTeller": [
+        "M",
+        "Second Calender"
+      ],
+      "otherAccounts": [
+        [
+          "F",
+          "Captive princess",
+          "Recounts her captivity to the Second Calender.",
+          "Direct"
+        ]
+      ]
+    },
+    {
+      "number": 13,
+      "title": "The Story of the Envious Man and of Him Who Was Envied",
+      "cast": [
+        [
+          {
+            "label": "Possessed princess",
+            "count": 1
+          },
+          {
+            "label": "Queen of Beauty",
+            "count": 1
+          },
+          {
+            "label": "Queen of Beauty's magic teacher",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Envious neighbor",
+            "count": 1
+          },
+          {
+            "label": "Envied dervish",
+            "count": 1
+          },
+          {
+            "label": "Father of possessed princess",
+            "count": 1
+          },
+          {
+            "label": "Deceased vizir of the envied man's story",
+            "count": 1
+          },
+          {
+            "label": "Ship captain who protects the ape",
+            "count": 1
+          },
+          {
+            "label": "Sultan who receives the ape",
+            "count": 1
+          },
+          {
+            "label": "Chief eunuch",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Young enslaved attendant at the ape's supper",
+            "count": 1
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Queen of Beauty",
+        "Identifies the prince beneath the enchantment and uses magic to restore him."
+      ],
+      "headedTeller": [
+        "M",
+        "Second Calender"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 14,
+      "title": "The Story of the Third Calendar, Son of a King",
+      "cast": [
+        [
+          {
+            "label": "One speaking princess among the forty",
+            "count": 1
+          },
+          {
+            "label": "Thirty-nine other princesses",
+            "count": 39
+          }
+        ],
+        [
+          {
+            "label": "Cassib",
+            "count": 1
+          },
+          {
+            "label": "Pilot",
+            "count": 1
+          },
+          {
+            "label": "Boy in the underground chamber",
+            "count": 1
+          },
+          {
+            "label": "Boy's merchant father",
+            "count": 1
+          },
+          {
+            "label": "Old man at the ten men's castle",
+            "count": 1
+          },
+          {
+            "label": "Ten one-eyed young men",
+            "count": 10
+          },
+          {
+            "label": "Ten enslaved men with the merchant",
+            "count": 10
+          }
+        ],
+        [
+          {
+            "label": "Dream visitor (nature unspecified)",
+            "count": 1
+          }
+        ]
+      ],
+      "decision": [
+        "M",
+        "Agib",
+        "Opens the forbidden door despite the princesses’ warning."
+      ],
+      "headedTeller": [
+        "M",
+        "Agib"
+      ],
+      "otherAccounts": [
+        [
+          "M",
+          "Boy in the underground chamber",
+          "Recounts the prophecy and why he is hidden.",
+          "Direct"
+        ]
+      ]
+    },
+    {
+      "number": 15,
+      "title": "The Seven Voyages of Sindbad the Sailor",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Sindbad the Sailor",
+            "count": 1
+          },
+          {
+            "label": "Hindbad",
+            "count": 1
+          },
+          {
+            "label": "Sindbad's servant",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Invites Hindbad to hear how he acquired his wealth."
+      ],
+      "headedTeller": null,
+      "otherAccounts": []
+    },
+    {
+      "number": 16,
+      "title": "First Voyage",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Captain of the first voyage",
+            "count": 1
+          },
+          {
+            "label": "King Mihrage",
+            "count": 1
+          },
+          {
+            "label": "Groom who finds Sindbad",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Persuades the captain to hear his account and recognize him."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 17,
+      "title": "Second Voyage",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Merchant who retrieves Sindbad from the diamond valley",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Ties himself to the roc to escape the island."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 18,
+      "title": "Third Voyage",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Captain of the third voyage (also of the second)",
+            "count": 1
+          },
+          {
+            "label": "Two fellow raft survivors",
+            "count": 2
+          },
+          {
+            "label": "Ship’s clerk",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Proposes building rafts and attacking the giant before escaping."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 19,
+      "title": "Fourth Voyage",
+      "cast": [
+        [
+          {
+            "label": "Sindbad's bride",
+            "count": 1
+          },
+          {
+            "label": "Neighbor's deceased wife",
+            "count": 1
+          },
+          {
+            "label": "Woman brought into the burial cave",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "King of the fourth voyage",
+            "count": 1
+          },
+          {
+            "label": "Grieving neighbor",
+            "count": 1
+          },
+          {
+            "label": "Man brought into the burial cave",
+            "count": 1
+          },
+          {
+            "label": "Captain of the fourth voyage",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Uses the burial cave’s opening to escape."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 20,
+      "title": "Fifth Voyage",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Captain of the fifth voyage",
+            "count": 1
+          },
+          {
+            "label": "Man who directs Sindbad to gather coconuts",
+            "count": 1
+          },
+          {
+            "label": "Captain of the rescue ship",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Uses wine to escape the Old Man of the Sea."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 21,
+      "title": "Sixth Voyage",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Captain of the sixth voyage",
+            "count": 1
+          },
+          {
+            "label": "Interpreter on Serendib",
+            "count": 1
+          },
+          {
+            "label": "King of Serendib",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Sindbad",
+        "Builds a raft and follows the underground river."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 22,
+      "title": "Seventh and Last Voyage",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Ivory merchant who buys Sindbad",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Ivory merchant",
+        "Frees Sindbad after he reveals the elephants’ burial ground."
+      ],
+      "headedTeller": [
+        "M",
+        "Sindbad"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 23,
+      "title": "The Little Hunchback",
+      "cast": [
+        [
+          {
+            "label": "Tailor's wife",
+            "count": 1
+          },
+          {
+            "label": "Doctor's wife",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Hunchback",
+            "count": 1
+          },
+          {
+            "label": "Tailor (Kashgar)",
+            "count": 1
+          },
+          {
+            "label": "Jewish doctor",
+            "count": 1
+          },
+          {
+            "label": "Purveyor",
+            "count": 1
+          },
+          {
+            "label": "Christian merchant",
+            "count": 1
+          },
+          {
+            "label": "Policeman who catches merchant",
+            "count": 1
+          },
+          {
+            "label": "Chief of police",
+            "count": 1
+          },
+          {
+            "label": "Hangman",
+            "count": 1
+          },
+          {
+            "label": "Sultan of Kashgar",
+            "count": 1
+          },
+          {
+            "label": "Sultan’s private historian",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Doctor's servant",
+            "count": 1
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Doctor’s wife",
+        "Proposes moving the hunchback’s body into the purveyor’s house."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "M",
+          "Chief of police",
+          "Relates what he knows of the case to the Sultan.",
+          "Reported"
+        ]
+      ]
+    },
+    {
+      "number": 24,
+      "title": "The Story of the Barber's Fifth Brother",
+      "cast": [
+        [
+          {
+            "label": "Old woman who lures Alnaschar",
+            "count": 1
+          },
+          {
+            "label": "Woman in the house",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Alnaschar",
+            "count": 1
+          },
+          {
+            "label": "Barber",
+            "count": 1
+          },
+          {
+            "label": "Barber's father",
+            "count": 1
+          },
+          {
+            "label": "Neighboring tailor",
+            "count": 1
+          },
+          {
+            "label": "Man who attacks Alnaschar",
+            "count": 1
+          },
+          {
+            "label": "Doorkeeper",
+            "count": 1
+          },
+          {
+            "label": "Judge",
+            "count": 1
+          },
+          {
+            "label": "Lame young man in the tailor’s account",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Old woman",
+        "Lures Alnaschar to a house where he is attacked."
+      ],
+      "headedTeller": [
+        "M",
+        "Barber"
+      ],
+      "otherAccounts": [
+        [
+          "F",
+          "Woman in the house",
+          "Recounts her earlier life and how she came to the house.",
+          "Direct"
+        ]
+      ]
+    },
+    {
+      "number": 25,
+      "title": "The Story of the Barber's Sixth Brother",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Schacabac",
+            "count": 1
+          },
+          {
+            "label": "Barmecide",
+            "count": 1
+          },
+          {
+            "label": "Servant who directs Schacabac",
+            "count": 1
+          },
+          {
+            "label": "Caliph who exiles barber (identity uncertain)",
+            "count": 1
+          },
+          {
+            "label": "Sultan of Kashgar's usher",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Schacabac",
+        "Plays along with the Barmecide’s imaginary meal."
+      ],
+      "headedTeller": [
+        "M",
+        "Barber"
+      ],
+      "otherAccounts": [
+        [
+          "M",
+          "Tailor (Kashgar)",
+          "Recounts the hunchback episode and the barber’s intervention in the surrounding narrative.",
+          "Direct"
+        ]
+      ]
+    },
+    {
+      "number": 26,
+      "title": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+      "cast": [
+        [
+          {
+            "label": "Badoura",
+            "count": 1
+          },
+          {
+            "label": "Badoura's mother",
+            "count": 1
+          },
+          {
+            "label": "Badoura's nurse",
+            "count": 1
+          },
+          {
+            "label": "Haiatelnefous",
+            "count": 1
+          },
+          {
+            "label": "Four wives of Schahzaman",
+            "count": 4
+          },
+          {
+            "label": "Woman who rides in Badoura’s litter",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Camaralzaman",
+            "count": 1
+          },
+          {
+            "label": "Schahzaman (Khaledan)",
+            "count": 1
+          },
+          {
+            "label": "Vizir of Khaledan",
+            "count": 1
+          },
+          {
+            "label": "Camaralzaman's attendant",
+            "count": 1
+          },
+          {
+            "label": "King of China",
+            "count": 1
+          },
+          {
+            "label": "Emir who proposes to Badoura",
+            "count": 1
+          },
+          {
+            "label": "Chinese grand-vizir",
+            "count": 1
+          },
+          {
+            "label": "Eunuch who carries note",
+            "count": 1
+          },
+          {
+            "label": "Marzavan",
+            "count": 1
+          },
+          {
+            "label": "Gardener who shelters Camaralzaman",
+            "count": 1
+          },
+          {
+            "label": "King Armanos",
+            "count": 1
+          },
+          {
+            "label": "Captain who carries the olives",
+            "count": 1
+          },
+          {
+            "label": "Badoura's son",
+            "count": 1
+          },
+          {
+            "label": "Haiatelnefous's son",
+            "count": 1
+          },
+          {
+            "label": "Camaralzaman’s governor",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Badoura",
+        "Disguises herself as Camaralzaman and continues the journey."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "F",
+          "Badoura",
+          "Tells Marzavan what happened and why she is imprisoned.",
+          "Reported"
+        ],
+        [
+          "F",
+          "Badoura",
+          "Tells Haiatelnefous her history and reveals her disguise.",
+          "Reported"
+        ],
+        [
+          "F",
+          "Badoura",
+          "Recounts her adventures to Camaralzaman at their reunion.",
+          "Reported"
+        ],
+        [
+          "F",
+          "Badoura",
+          "Explains her conduct to King Armanos before yielding the throne.",
+          "Reported"
+        ],
+        [
+          "M",
+          "Camaralzaman",
+          "Tells the King of China his history after revealing his identity.",
+          "Reported"
+        ]
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Noureddin and the Fair Persian",
+      "cast": [
+        [
+          {
+            "label": "Fair Persian",
+            "count": 1
+          },
+          {
+            "label": "Khacan's wife",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Noureddin",
+            "count": 1
+          },
+          {
+            "label": "Khacan",
+            "count": 1
+          },
+          {
+            "label": "Saouy",
+            "count": 1
+          },
+          {
+            "label": "Mohammed Zinebi",
+            "count": 1
+          },
+          {
+            "label": "Grand treasurer",
+            "count": 1
+          },
+          {
+            "label": "Slave dealer who brings the Fair Persian",
+            "count": 1
+          },
+          {
+            "label": "Noureddin's steward",
+            "count": 1
+          },
+          {
+            "label": "Hagi Hassan",
+            "count": 1
+          },
+          {
+            "label": "Captain of the guard",
+            "count": 1
+          },
+          {
+            "label": "Scheih Ibrahim",
+            "count": 1
+          },
+          {
+            "label": "Caliph's fisherman",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Two young enslaved attendants",
+            "count": 2
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Fair Persian",
+        "Proposes that Noureddin sell her when his resources run out."
+      ],
+      "headedTeller": null,
+      "otherAccounts": []
+    },
+    {
+      "number": 28,
+      "title": "Aladdin and the Wonderful Lamp",
+      "cast": [
+        [
+          {
+            "label": "Aladdin's mother",
+            "count": 1
+          },
+          {
+            "label": "Sultan's daughter",
+            "count": 1
+          },
+          {
+            "label": "Sultan's wife",
+            "count": 1
+          },
+          {
+            "label": "Fatima",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Aladdin",
+            "count": 1
+          },
+          {
+            "label": "Aladdin's father",
+            "count": 1
+          },
+          {
+            "label": "African magician",
+            "count": 1
+          },
+          {
+            "label": "Sultan (Aladdin)",
+            "count": 1
+          },
+          {
+            "label": "Sultan's vizir",
+            "count": 1
+          },
+          {
+            "label": "Vizir's son",
+            "count": 1
+          },
+          {
+            "label": "African magician's brother",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Two enslaved attendants in lamp exchange",
+            "count": 2
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Sultan’s daughter",
+        "Carries out the plan to drug the magician."
+      ],
+      "headedTeller": null,
+      "otherAccounts": []
+    },
+    {
+      "number": 29,
+      "title": "The Adventures of Haroun-al-Raschid, Caliph of Bagdad",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Baba-Abdalla",
+            "count": 1
+          },
+          {
+            "label": "Sidi-Nouman",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Haroun-al-Raschid",
+        "Summons the men whose conduct he has observed."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "M",
+          "Giafar",
+          "Recalls the planned excursion to hear complaints.",
+          "Brief account"
+        ]
+      ]
+    },
+    {
+      "number": 30,
+      "title": "The Story of the Blind Baba-Abdalla",
+      "cast": [
+        [],
+        [
+          {
+            "label": "Baba-Abdalla's dervish",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Baba-Abdalla",
+        "Insists the dervish apply the ointment to his second eye."
+      ],
+      "headedTeller": [
+        "M",
+        "Baba-Abdalla"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 31,
+      "title": "The Story of Sidi-Nouman",
+      "cast": [
+        [
+          {
+            "label": "Amina (Sidi-Nouman’s wife, supernatural status ambiguous)",
+            "count": 1
+          },
+          {
+            "label": "Woman who recognizes the dog",
+            "count": 1
+          },
+          {
+            "label": "Her daughter",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Baker",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Woman who recognizes the dog",
+        "Takes Sidi-Nouman to her daughter to undo his enchantment."
+      ],
+      "headedTeller": [
+        "M",
+        "Sidi-Nouman"
+      ],
+      "otherAccounts": []
+    },
+    {
+      "number": 32,
+      "title": "The Story of Ali Colia, Merchant of Bagdad",
+      "cast": [
+        [
+          {
+            "label": "Merchant's wife (Ali Cogia)",
+            "count": 1
+          },
+          {
+            "label": "Boy judge’s mother",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Ali Cogia",
+            "count": 1
+          },
+          {
+            "label": "Merchant who takes the money",
+            "count": 1
+          },
+          {
+            "label": "Cadi of Bagdad",
+            "count": 1
+          },
+          {
+            "label": "Boy who plays judge",
+            "count": 1
+          },
+          {
+            "label": "Boy who plays Ali",
+            "count": 1
+          },
+          {
+            "label": "Boy who plays the merchant",
+            "count": 1
+          },
+          {
+            "label": "Two olive experts at the hearing",
+            "count": 2
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "M",
+        "Boy who plays judge",
+        "Tests the merchant’s account by seeking expert knowledge about olives."
+      ],
+      "headedTeller": null,
+      "otherAccounts": []
+    },
+    {
+      "number": 33,
+      "title": "The Enchanted Horse",
+      "cast": [
+        [
+          {
+            "label": "Princess of Bengal",
+            "count": 1
+          },
+          {
+            "label": "Firouz Schah's sister",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "King of Persia (Enchanted Horse)",
+            "count": 1
+          },
+          {
+            "label": "Firouz Schah",
+            "count": 1
+          },
+          {
+            "label": "Indian inventor",
+            "count": 1
+          },
+          {
+            "label": "Doorkeeper (Persia)",
+            "count": 1
+          },
+          {
+            "label": "Sultan of Cashmere",
+            "count": 1
+          },
+          {
+            "label": "Chief usher of Cashmere",
+            "count": 1
+          },
+          {
+            "label": "Chief eunuch of the Princess of Bengal",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Palace guards (number unspecified)",
+            "count": null
+          }
+        ]
+      ],
+      "decision": [
+        "F",
+        "Princess of Bengal",
+        "Feigns distress to forestall marriage to the Sultan of Cashmere."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "M",
+          "Firouz Schah",
+          "Recounts the festival and his flight to the Princess of Bengal.",
+          "Reported"
+        ]
+      ]
+    },
+    {
+      "number": 34,
+      "title": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+      "cast": [
+        [
+          {
+            "label": "Eldest sister",
+            "count": 1
+          },
+          {
+            "label": "Middle sister",
+            "count": 1
+          },
+          {
+            "label": "Youngest sister (Sultana)",
+            "count": 1
+          },
+          {
+            "label": "Intendant's wife",
+            "count": 1
+          },
+          {
+            "label": "Parizade",
+            "count": 1
+          },
+          {
+            "label": "Old pilgrim",
+            "count": 1
+          }
+        ],
+        [
+          {
+            "label": "Kosrouschah",
+            "count": 1
+          },
+          {
+            "label": "His grand-vizir",
+            "count": 1
+          },
+          {
+            "label": "Chief baker",
+            "count": 1
+          },
+          {
+            "label": "Chief cook",
+            "count": 1
+          },
+          {
+            "label": "Intendant of the gardens",
+            "count": 1
+          },
+          {
+            "label": "Gardener who retrieves the cradle",
+            "count": 1
+          },
+          {
+            "label": "Bahman",
+            "count": 1
+          },
+          {
+            "label": "Perviz",
+            "count": 1
+          },
+          {
+            "label": "Dervish who advises the siblings",
+            "count": 1
+          }
+        ],
+        []
+      ],
+      "decision": [
+        "F",
+        "Parizade",
+        "Blocks out the voices and obtains the Talking Bird after her brothers fail."
+      ],
+      "headedTeller": null,
+      "otherAccounts": [
+        [
+          "F",
+          "Parizade",
+          "Explains to her brothers how she broke the spell.",
+          "Direct"
+        ],
+        [
+          "N",
+          "Talking Bird",
+          "Reveals what happened to the Sultana’s children.",
+          "Direct"
+        ]
+      ]
+    }
+  ],
+  "lexicalAnalysis": {
+    "words": 110305,
+    "sections": [
+      "The Arabian Nights",
+      "The Story of the Merchant and the Genius",
+      "The Story of the First Old Man and of the Hind",
+      "The Story of the Second Old Man, and of the Two Black Dogs",
+      "The Story of the Fisherman",
+      "The Story of the Greek King and the Physician Douban",
+      "The Story of the Husband and the Parrot",
+      "The Story of the Vizir Who Was Punished",
+      "The Story of the Young King of the Black Isles",
+      "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+      "The Story of the First Calender, Son of a King",
+      "The Story of the Second Calendar, Son of a King",
+      "The Story of the Envious Man and of Him Who Was Envied",
+      "The Story of the Third Calendar, Son of a King",
+      "The Seven Voyages of Sindbad the Sailor",
+      "First Voyage",
+      "Second Voyage",
+      "Third Voyage",
+      "Fourth Voyage",
+      "Fifth Voyage",
+      "Sixth Voyage",
+      "Seventh and Last Voyage",
+      "The Little Hunchback",
+      "The Story of the Barber's Fifth Brother",
+      "The Story of the Barber's Sixth Brother",
+      "The Adventures of Prince Camaralzaman and the Princess Badoura",
+      "Noureddin and the Fair Persian",
+      "Aladdin and the Wonderful Lamp",
+      "The Adventures of Haroun-al-Raschid, Caliph of Bagdad",
+      "The Story of the Blind Baba-Abdalla",
+      "The Story of Sidi-Nouman",
+      "The Story of Ali Colia, Merchant of Bagdad",
+      "The Enchanted Horse",
+      "The Story of Two Sisters Who Were Jealous of Their Younger Sister"
+    ],
+    "counts": [
+      839,
+      1648
+    ],
+    "pronouns": [
+      644,
+      1891
+    ],
+    "roles": {
+      "Family": [
+        "wife wives bride brides mother mothers daughter daughters sister sisters widow widows",
+        "husband husbands bridegroom bridegrooms father fathers son sons brother brothers widower widowers"
+      ],
+      "Royal rank": [
+        "queen queens sultana sultanas princess princesses",
+        "king kings sultan sultans caliph caliphs prince princes"
+      ],
+      "Court office": [
+        "",
+        "vizir vizirs vizier viziers"
+      ],
+      "Other labels": [
+        "woman women girl girls lady ladies maiden maidens",
+        "man men boy boys gentleman gentlemen"
+      ]
+    },
+    "labels": {
+      "kings": 8,
+      "king": 241,
+      "sons": 7,
+      "brother": 69,
+      "sultan": 247,
+      "wife": 107,
+      "women": 26,
+      "sultana": 15,
+      "brides": 1,
+      "man": 234,
+      "girl": 9,
+      "father": 94,
+      "daughter": 59,
+      "mother": 46,
+      "daughters": 1,
+      "girls": 3,
+      "sister": 44,
+      "mothers": 1,
+      "bride": 6,
+      "maiden": 4,
+      "vizir": 86,
+      "son": 111,
+      "husband": 30,
+      "men": 60,
+      "prince": 272,
+      "woman": 57,
+      "widower": 1,
+      "brothers": 30,
+      "lady": 66,
+      "princess": 332,
+      "queen": 16,
+      "caliph": 110,
+      "ladies": 24,
+      "sisters": 13,
+      "gentlemen": 7,
+      "princesses": 7,
+      "princes": 16,
+      "vizirs": 2,
+      "boy": 16,
+      "fathers": 1,
+      "wives": 1,
+      "queens": 1,
+      "boys": 2,
+      "bridegroom": 2,
+      "husbands": 2
+    },
+    "hits": [
+      {
+        "word": "unhappy",
+        "category": "Condition & status",
+        "label": "brides",
+        "group": "Family",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "attributive",
+        "context": "rand-vizir, whose duty it was to provide these unhappy brides for the Sultan.  The poor man fulfilled his"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Arabian Nights",
+        "construction": "attributive",
+        "context": "provide these unhappy brides for the Sultan.  The poor man fulfilled his task with reluctance, but ther"
+      },
+      {
+        "word": "eldest",
+        "category": "Age",
+        "label": "daughter",
+        "group": "Family",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "attributive",
+        "context": "ne day, when the grand-vizir was talking to his eldest daughter, who was his delight and pride, Scheherazade"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "attributive",
+        "context": "were alone, Scheherazade addressed her thus: \"My dear sister; I want your help in a very important affair"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "attributive",
+        "context": "de awoke, and exclaimed, as she had promised, \"My dear sister, if you are not asleep, tell me I pray you,"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "ore the day broke, Dinarzade said to her sister, \"Dear sister, if you are awake I pray you to go on with y"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "n terrible suspense. Whilst he was thus waiting an old man leading a hind came towards him. They greete"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "owards him. They greeted one another, and then the old man said to him, \"May I ask, brother, what broug"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "rous place to stop long in.\" The merchant told the old man why he was obliged to come there.  He listen"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "n by the merchant. While they were talking another old man came up, followed by two black dogs.  He gre"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "and asked what they were doing in this place. The old man who was leading the hind told him the advent"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "enture of the merchant and the genius.  The second old man had not sooner heard the story than he, too,"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "down by the others, and was talking, when a third old man arrived. He asked why the merchant who was w"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "as you killed my son.\" The merchant and the three old men began to weep and groan. Then the old man le"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Merchant and the Genius",
+        "construction": "attributive",
+        "context": "he three old men began to weep and groan. Then the old man leading the hind threw himself at the monste"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "I am now going to begin my story (said the old man), so please attend. This hind that you see w"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "d son.\" \"At these words, of Genius,\" continued the old man, \"I leave you to imagine my astonishment.  I"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "wing the water over him, he became immediately a young man once more. \"My son, my dear son,\" I exclaime"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "son",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "me immediately a young man once more. \"My son, my dear son,\" I exclaimed, kissing him in a transport of"
+      },
+      {
+        "word": "kind",
+        "category": "Conduct",
+        "label": "maiden",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "claimed, kissing him in a transport of joy. \"This kind maiden has rescued you from a terrible enchantment,"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "girl",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "nted joyfully, but before they were married, the young girl changed my wife into a hind, and it is she w"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "f the punishment of this merchant.\" When the first old man had finished his story, the second, who was"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the First Old Man and of the Hind",
+        "construction": "attributive",
+        "context": "that of the hind.\" With this agreement the second old man began in this way."
+      },
+      {
+        "word": "eldest",
+        "category": "Age",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "A short time after we had opened our shops, my eldest brother, one of these two dogs, resolved to travel i"
+      },
+      {
+        "word": "eldest",
+        "category": "Age",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "ished also to sell his business and travel.  My eldest brother and I did all we could to dissuade him, but"
+      },
+      {
+        "word": "elder",
+        "category": "Age",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "ck at the end of a year in the same state as his elder brother.  I took care of him, and as I had a thousan"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "but she begged so hard and promised to be such a good wife to me, that at last I consented.  I got her"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "nd her.  As in passing I met this merchant and the old man with the hind, I stayed with them. This is m"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "hird of the merchant's punishment.\" Then the third old man made the genius the same request as the othe"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Second Old Man, and of the Two Black Dogs",
+        "construction": "attributive",
+        "context": "t the genius was astonished, and said to the third old man, \"I will give up to you the third part of th"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Husband and the Parrot",
+        "construction": "attributive",
+        "context": "A good man had a beautiful wife, whom he loved passiona"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of the Husband and the Parrot",
+        "construction": "attributive",
+        "context": "A good man had a beautiful wife, whom he loved passionately, and never left"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": "to find it, he saw on the side of the road a beautiful lady who was crying bitterly.  He drew his horse'"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": ", and I do not know what has become of him.\" The young prince had pity on her, and offered to take her beh"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": "us bemoaned his fate, and at last saw a handsome young man, richly clothed, who was sitting on a throne"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": "The sultan approached him and bowed to him.  The young man bent his head very low, but did not rise. \"S"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": "why is it thus empty?\" Instead of answering the young man lifted up his robe, and showed the Sultan th"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": "marble. The Sultan was horrified, and begged the young man to tell him his story. \"Willingly I will tel"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Vizir Who Was Punished",
+        "construction": "attributive",
+        "context": "lingly I will tell you my sad history,\" said the young man."
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "d beats me with a whip of buffalo hide. When the young king had finished his sad story he burst once mor"
+      },
+      {
+        "word": "wicked",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "much moved. \"Tell me,\" he cried, \"where is this wicked woman, and where is the miserable object of her af"
+      },
+      {
+        "word": "unhappy",
+        "category": "Condition & status",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "\"Where she lives I do not know,\" answered the unhappy prince, \"but she goes every day at sunrise to see i"
+      },
+      {
+        "word": "unfortunate",
+        "category": "Condition & status",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "t speak to her, after she has beaten me.\" \"Unfortunate king,\" said the Sultan, \"I will do what I can to"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "t I can to avenge you.\" So he consulted with the young king over the best way to bring this about, and t"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "ct the next day. The Sultan then rested, and the young king gave himself up to happy hopes of release."
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "aited for the enchantress. She went first to the young king, whom she beat with a hundred blows. Then sh"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "him, and told them how he intended to adopt the young king as his heir. Then he gave each man presents"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Young King of the Black Isles",
+        "construction": "attributive",
+        "context": "he was the first cause of the deliverance of the young prince, the Sultan gave him much money, and made hi"
+      },
+      {
+        "word": "sensible",
+        "category": "Intellect & resolve",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "of his humble calling, was an intelligent and sensible man.  One morning he was sitting in his usual pl"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "ket before him, waiting to be hired, when a tall young lady, covered with a long muslin veil, came up to"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "d door, at which she knocked.  It was opened by an old man with a long white beard, to whom the lady he"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "hom the lady held out money without speaking.  The old man, who seemed to understand what she wanted, v"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "till at last the porter exclaimed in despair, \"My good lady, if you had only told me you were going to b"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "claimed, \"Why don't you come in, my sister?  This poor man is so heavily weighed down that he is ready"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "ladies",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "o, I was lost in astonishment at seeing such beautiful ladies by themselves. A company of women without me"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad",
+        "construction": "attributive",
+        "context": "to live in the same way.\" \"Do not be so angry, my good man,\" replied the Calender; \"we should be very s"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "princesses",
+        "group": "Royal rank",
+        "side": 0,
+        "section": "The Story of the First Calender, Son of a King",
+        "construction": "attributive",
+        "context": "his thoughts, and presented to him the most beautiful princesses, but he cared for none of them, and, as you"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Second Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "\"Madam,\" said the young man, addressing Zobeida, \"if you wish to know ho"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Second Calendar, Son of a King",
+        "construction": "attributive",
+        "context": ". Now the Sultan of the Indies, curious to see a young prince with such strange tastes, sent an ambassador"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Second Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "g my grief my host entered, and said, \"There is an old man downstairs who has brought your hatchet and"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Second Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "e reason when the door of the room opened, and the old man appeared, carrying with him my hatchet and s"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "princess",
+        "group": "Royal rank",
+        "side": 0,
+        "section": "The Story of the Second Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "the enchanted palace, in the presence of the beautiful princess of the Ebony Isle. But how different she loo"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Envious Man and of Him Who Was Envied",
+        "construction": "attributive",
+        "context": "f the other, and envied him so bitterly, that the poor man determined to find another home, hoping that"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Envious Man and of Him Who Was Envied",
+        "construction": "attributive",
+        "context": "an old well. In order to live a quieter life, the good man put on the robe of a dervish, and divided hi"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Envious Man and of Him Who Was Envied",
+        "construction": "attributive",
+        "context": "rder to the captain. \"He is the master,\" said the good man, and desired that I should be sent for. Then"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Envious Man and of Him Who Was Envied",
+        "construction": "attributive",
+        "context": ".  This monkey is really no monkey at all, but a young prince who has been turned into a monkey by the wic"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Envious Man and of Him Who Was Envied",
+        "construction": "attributive",
+        "context": "?\" asked he. \"Sire,\" replied Queen of Beauty, \"the old lady who took care of me in my childhood was an a"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of the Envious Man and of Him Who Was Envied",
+        "construction": "attributive",
+        "context": "you tell me what must be done to disenchant the young prince?\" \"Certainly; and I can do it.\" \"Then restor"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "e dome, was asleep in an instant.  In my dreams an old man appeared to me and said, \"Hearken, Agib!  As"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "rcome with joy at this sight that I forgot all the old man had told me, and cried out, \"Allah be praise"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "and provisions, and finally were accompanied by an old man, leading a handsome boy of fourteen or fifte"
+      },
+      {
+        "word": "handsome",
+        "category": "Appearance",
+        "label": "boy",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "lly were accompanied by an old man, leading a handsome boy of fourteen or fifteen years of age.  They a"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "u have been buried alive.\" Hearing my words, the young man recovered himself, and when I had ended, he"
+      },
+      {
+        "word": "wise",
+        "category": "Intellect & resolve",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "when this actually happened, he consulted all the wise men in the kingdom as to the future of the infan"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "und. The morning of the fortieth dawned, and the young man when he woke gave thanks in an outburst of j"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "g of the bed, I slipped, and fell right upon the young man, the knife going straight into his heart. At"
+      },
+      {
+        "word": "unhappy",
+        "category": "Condition & status",
+        "label": "father",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "fearing to be punished as his murderer by the unhappy father, I raised the great stone which blocked the"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "mong the branches of a tree that grew near by. The old man and his slaves pushed off in a boat directly"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "e up the steps, carrying with them the body of the old man, who had fainted from sorrow!  Laying him do"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "aking some boughs to weave a litter, they laid the old man on it, and carried him to the ship, which sp"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "still staring at it, there came towards me a tall old man, accompanied by ten young men, all handsome,"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "me towards me a tall old man, accompanied by ten young men, all handsome, and all blind of the right ey"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "happy to tell it them.  When I had finished, the young men begged that I would go with them to the cast"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "furnished with ten small blue sofas for the ten young men, which served as beds as well as chairs, and"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "hairs, and with another sofa in the middle for the old man.  As none of the sofas could hold more than"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "ut anything I should see. After a little while the old man rose and brought in supper, which I ate hear"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "eartily, for I was very hungry.  Then one of the young men begged me to repeat my story, which had stru"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "m all with astonishment, and when I had ended, the old man was bidden to \"do his duty,\" as it was late,"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "with blue stuff.  He set one before each of the young men, together with a lighted taper. When the cov"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "illed with ashes, coal-dust, and lamp-black. The young men mixed these all together, and smeared the wh"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "l. \"It is for your own sake,\" replied one of the young men, \"that we have not granted your request, and"
+      },
+      {
+        "word": "honest",
+        "category": "Conduct",
+        "label": "gentlemen",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "h I should be grieved to part company with such honest gentlemen, I would not be turned from my resolution on"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "gentlemen",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "imposed upon us our nightly penance.\" After the young gentlemen had been at the trouble of sewing the sheep-"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "ladies",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "g open I found myself in a vast hall where forty young ladies, magnificently dressed, and of perfect beaut"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "hinking as I did so of what had befallen the ten young men, and watching the horse which was soaring in"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "by the ten blue sofas against the wall. The ten young men were not present when I first entered, but c"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Third Calendar, Son of a King",
+        "construction": "attributive",
+        "context": "ntered, but came in soon after, accompanied by the old man.  They greeted me kindly, and bewailed my mi"
+      },
+      {
+        "word": "honest",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "First Voyage",
+        "construction": "attributive",
+        "context": "world coming to?  In these days there is not an honest man to be met with.  Did I not with my own eyes"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Third Voyage",
+        "construction": "attributive",
+        "context": "terrible sight our senses left us and we lay like dead men. When at last we came to ourselves the giant"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Fourth Voyage",
+        "construction": "attributive",
+        "context": "had gone off upon some expedition leaving only an old man to guard me, I managed to escape from him an"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Fourth Voyage",
+        "construction": "attributive",
+        "context": "fore I desire that you will marry a rich and beautiful lady whom I will find for you, and think no more"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "Fourth Voyage",
+        "construction": "attributive",
+        "context": "es--the living husband goes to the grave with his dead wife, the living wife with her dead husband.  So"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "husband",
+        "group": "Family",
+        "side": 1,
+        "section": "Fourth Voyage",
+        "construction": "attributive",
+        "context": "rave with his dead wife, the living wife with her dead husband.  So did our fathers, and so must we do.  Th"
+      },
+      {
+        "word": "wretched",
+        "category": "Condition & status",
+        "label": "husband",
+        "group": "Family",
+        "side": 1,
+        "section": "Fourth Voyage",
+        "construction": "attributive",
+        "context": "mountain at some distance from the city, the wretched husband, clothed from head to foot in a black mantle"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Fifth Voyage",
+        "construction": "attributive",
+        "context": "trated some distance into the island when I saw an old man bent and feeble sitting upon the river bank,"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Fifth Voyage",
+        "construction": "attributive",
+        "context": "myself down half dead with weariness, the terrible old man held on tight to my neck, nor did he fail to"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Fifth Voyage",
+        "construction": "attributive",
+        "context": "a tree, and a few days later, carrying the hateful old man that way, I snatched at my gourd as I passed"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Fifth Voyage",
+        "construction": "attributive",
+        "context": "o rejoiced to have at last got rid of this uncanny old man that I ran leaping and bounding down to the"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Fifth Voyage",
+        "construction": "attributive",
+        "context": "amazement, saying, \"You fell into the hands of the Old Man of the Sea, and it is a mercy that he did no"
+      },
+      {
+        "word": "wise",
+        "category": "Intellect & resolve",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Sixth Voyage",
+        "construction": "attributive",
+        "context": "king's letter,\" said he, \"I judged that he was a wise man. It seems that he is worthy of his people, a"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "attributive",
+        "context": "in an instant.  Besides being very sorry for the poor man, the tailor and his wife were very much frig"
+      },
+      {
+        "word": "sick",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "attributive",
+        "context": "r,\" said the tailor, \"that we have brought a very sick man for him to cure; and,\" he added, holding out"
+      },
+      {
+        "word": "sick",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "attributive",
+        "context": "did I not wait for the light?  I have killed the sick man whom they brought me; and if the sacred Ass"
+      },
+      {
+        "word": "sick",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "attributive",
+        "context": "elling me her story they seem to have carried the sick man to the top of the staircase and then left hi"
+      },
+      {
+        "word": "sick",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "attributive",
+        "context": "master to come down as fast as possible and see a sick man whom we had brought for him to cure; and in"
+      },
+      {
+        "word": "wretched",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "a loud fit of laughter as he saw this sight. \"Wretched man!\" he cried, \"you ought to die of shame at be"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": ", \"you ought to die of shame at behaving so to a young wife who has done nothing to you.  You must be a"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "nd why the man wept.  They told her that he was a poor man who had laid out all his money on this baske"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "ck came to his door, and on opening it he found an old woman standing outside. \"My son,\" she said, \"I hav"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "ouse, and give me water.\" My brother, although the old woman was a stranger to him, did not hesitate to d"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "ld easily carry in his belt.  During this time the old woman was busy over her prayers, and when she had"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "new ones, so he held out two pieces of gold.  The old woman started back in surprise as if she had recei"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "l to say I do not need it, for I belong to a beautiful lady who is very rich and gives me everything I w"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "y brother was not clever enough to detect that the old woman had merely refused the two pieces of money h"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "he had found so easily both a fortune and a beautiful wife, my brother asked no more questions, but con"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "his guide. They walked for some distance till the old woman stopped at a large house, where she knocked."
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "he door was opened by a young Greek slave, and the old woman led my brother across a well-paved court int"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "ey then left him, and their place was taken by the old woman, who dragged him to a trapdoor and threw him"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "lf in the courtyard till daybreak, when he saw the old woman leave the house in search of more prey.  Luc"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "d him with his sash, and, disguising himself as an old woman, he took a sabre, which he hid under his dre"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "m anxious to see if they are the proper weight.\" \"Good woman,\" replied the old hag, \"you could not have a"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "rolling from her shoulders. The noise brought the old woman running to see what was the matter, and he s"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "attributive",
+        "context": "ied she, \"the wife of an honest merchant, and that old woman, whose wickedness I did not know, used occas"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Sixth Brother",
+        "construction": "attributive",
+        "context": "he entered and inquired to whom it belonged. \"My good man, where do you come from?\" replied the servan"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Sixth Brother",
+        "construction": "attributive",
+        "context": "a room richly decorated with paintings, he saw an old man with a long white beard, sitting on a sofa,"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Sixth Brother",
+        "construction": "attributive",
+        "context": "petition. \"My lord,\" he said, \"you behold in me a poor man who only lives by the help of persons as ric"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Sixth Brother",
+        "construction": "attributive",
+        "context": "hed his tale, we came to the conclusion that the young man had been right, when he had accused him of b"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Barber's Sixth Brother",
+        "construction": "attributive",
+        "context": "nd the tailor soon returned, bringing with them an old man who must have been at least ninety years of"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "e was grown up, a more charming and accomplished young man was not to be found.  Whilst he was still a"
+      },
+      {
+        "word": "amiable",
+        "category": "Conduct",
+        "label": "women",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "t there are as many good, virtuous, sweet, and amiable women as there are others very much the reverse."
+      },
+      {
+        "word": "fair",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "w tell me what you have seen and done to-night.\" \"Fair lady,\" said Danhasch, \"you meet me at the right m"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "women",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "ms in one of her palaces, and only allowed her ten old women, of whom her nurse was the head, to wait on"
+      },
+      {
+        "word": "fair",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "t the genie's enchantments kept her asleep. \"How, fair lady!\" he cried, \"you do not wake at the signs of"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "rted up, and was not a little amazed at seeing a young man beside her.  From surprise she soon passed t"
+      },
+      {
+        "word": "lovely",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "ince Camaralzaman did was to look round for the lovely lady he had seen at night, and the next to questi"
+      },
+      {
+        "word": "unfortunate",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "nd him and ducked him in the well till the unfortunate man cried out that he would tell everything.  Th"
+      },
+      {
+        "word": "unhappy",
+        "category": "Condition & status",
+        "label": "vizir",
+        "group": "Court office",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "aded him with blows. \"Stop, Prince,\" cried the unhappy vizir, \"stay and hear what I have to say.\" The pri"
+      },
+      {
+        "word": "lovely",
+        "category": "Appearance",
+        "label": "girl",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "jected to matrimony formerly, the sight of this lovely girl has overcome all my prejudices, and I will g"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "son",
+        "group": "Family",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "The whole affair is indeed mysterious.  Come, my dear son, let us wait together for happier days.\" So"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "r her women. \"Tell me,\" she cried, \"where is the young man I love so dearly, and who slept near me last"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "d the princess, \"the most charming and beautiful young man lay sleeping beside me last night.  I did my"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "at I will never marry anyone except the charming young man whom I saw last night.  You must know where"
+      },
+      {
+        "word": "lovely",
+        "category": "Appearance",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "t, fired with the desire to possess a young and lovely wife and to rule over a great kingdom, offered to"
+      },
+      {
+        "word": "beloved",
+        "category": "Address",
+        "label": "princess",
+        "group": "Royal rank",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "orm your promise.  I am so impatient to see my beloved princess once more that I am sure I shall fall ill ag"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "in store for him, that he tried to persuade the young man to renounce his project. But Camaralzaman po"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "rden door open and walked in. The gardener, a good old man, who was at work, happened to look up, and,"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "e of safety.\" Camaralzaman warmly thanked the kind old man for offering him shelter, and was about to s"
+      },
+      {
+        "word": "beloved",
+        "category": "Address",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "and his nights thinking of and sighing for his beloved wife. Let us now see what had become during this"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "ey, King Armanos said to him: \"Prince, I am now an old man, and unfortunately I have no son to whom to"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "wife",
+        "group": "Family",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "o the garden and was soon lost in thoughts of his dear wife and their sad separation. As he walked up an"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "h more needed by a prince like yourself than by an old man like me, who am near my end and require noth"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "thank him once more for all his kindness.  But the old man was at his last gasp, and had barely murmure"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "ving dug a grave in the garden he wrapped the kind old man up and buried him.  He then locked the door,"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "nothing left for him but to hire the garden as the old man had done, and to live on in the cottage.  As"
+      },
+      {
+        "word": "beloved",
+        "category": "Address",
+        "label": "husband",
+        "group": "Family",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "on the look out for any chance of news of her beloved husband, went down to the harbour attended by some o"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "husband",
+        "group": "Family",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "ply.  This was the cause of my separation from my dear husband, and now, I am convinced, it will be the mea"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "tain told her all he knew of the place where the young man lived, and how, after engaging his passage,"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "king",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "attributive",
+        "context": "sition, for the princess, out of compliment to the old king, had taken his name, and was generally known"
+      },
+      {
+        "word": "wretched",
+        "category": "Condition & status",
+        "label": "son",
+        "group": "Family",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "s hands and rending his beard, he exclaimed: \"Wretched son! thou destroyest not only thyself but thy fa"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "follow, and soon he formed little society of ten young men all about his own age, with whom he spent al"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "money you might obtain from the merchants.\"  \"Bad old man,\" he exclaimed, \"rather than sell my slave t"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "ng nearer he perceived that they were a handsome young man and beautiful young woman, and decided to aw"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "hat they were a handsome young man and beautiful young woman, and decided to awake them by gentler means."
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "gentler means. Noureddin, on being awoke, told the old man that they were strangers, and merely wished"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "When they had finished eating Noureddin asked the old man to bring them a bottle of wine. \"Heaven forb"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "him to come in and keep them company. At first the old man declined, but was persuaded to enter the roo"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "he yielded, and took the cup she offered. Now the old man only made a pretence of renouncing wine; he"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "e silver arms. \"Light them yourself,\" answered the old man; \"you are younger than I, but let five or si"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "e had never doubted, drinking and singing with a young man and a beautiful lady.  The Caliph, before gi"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "drinking and singing with a young man and a beautiful lady.  The Caliph, before giving way to his anger"
+      },
+      {
+        "word": "fair",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "isherman) said to him, \"Sir, I perceive that this fair lady is your slave.  Oblige me, I beg you, by rel"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "e to these conditions you shall have nothing.\" The old man, furious at this insolence as he considered"
+      },
+      {
+        "word": "fair",
+        "category": "Appearance",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "attributive",
+        "context": "ive thee.\" Then turning to the Persian he said:  \"Fair lady, now you know who I am; learn also that I ha"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "attributive",
+        "context": "ined kneeling till the Sultan said to her: \"Rise, good woman, and tell me what you want.\" She hesitated,"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "attributive",
+        "context": "Sultan then turned to Aladdin's mother, saying:  \"Good woman, a Sultan must remember his promises, and I"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "attributive",
+        "context": "o the Sultan. He hesitated no longer, but said:  \"Good woman, return and tell your son that I wait for hi"
+      },
+      {
+        "word": "younger",
+        "category": "Age",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "attributive",
+        "context": "t it was not to be. The African magician had a younger brother, who was, if possible, more wicked and more"
+      },
+      {
+        "word": "pious",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "attributive",
+        "context": "avenge his brother's death, and went to visit a pious woman called Fatima, thinking she might be of use"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Adventures of Haroun-al-Raschid, Caliph of Bagdad",
+        "construction": "attributive",
+        "context": "ch surprised at this request, replied gently: \"My good man, that which you ask is impossible.  Of what"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Blind Baba-Abdalla",
+        "construction": "attributive",
+        "context": "d, and was left an orphan while I was yet a very young man, for my parents died within a few days of ea"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Blind Baba-Abdalla",
+        "construction": "attributive",
+        "context": "l my sufferings are caused by myself alone!  But, good brother, you, who are so kind and charitable, and kn"
+      },
+      {
+        "word": "unhappy",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Blind Baba-Abdalla",
+        "construction": "attributive",
+        "context": "you nothing that will give me back my sight?\" \"Unhappy man,\" replied the dervish, \"it is not my fault t"
+      },
+      {
+        "word": "rich",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of the Blind Baba-Abdalla",
+        "construction": "attributive",
+        "context": "day and kindly brought me back to Bagdad. From a rich man I had in one moment become a beggar; and up"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Sidi-Nouman",
+        "construction": "attributive",
+        "context": "rvish, and when it was finished he turned to the young man who had ill-treated his horse, and inquired"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Sidi-Nouman",
+        "construction": "attributive",
+        "context": "eated his horse, and inquired his name also. The young man replied that he was called Sidi-Nouman. \"Sid"
+      },
+      {
+        "word": "cruel",
+        "category": "Conduct",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Sidi-Nouman",
+        "construction": "attributive",
+        "context": "to it at once.  Still, you have not the air of a cruel man, and I would gladly believe that you did not"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "girl",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Sidi-Nouman",
+        "construction": "attributive",
+        "context": "door, and took me into a large room, where a beautiful girl was working at a piece of embroidery.  \"My d"
+      },
+      {
+        "word": "wicked",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Sidi-Nouman",
+        "construction": "attributive",
+        "context": "f my conduct, your Highness will not think this wicked woman too harshly treated? \"Sidi-Nouman,\" replied"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Ali Colia, Merchant of Bagdad",
+        "construction": "attributive",
+        "context": "him, when three nights running he dreamed that an old man had appeared to him, and reproached him for"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Ali Colia, Merchant of Bagdad",
+        "construction": "attributive",
+        "context": "es.  To no purpose.  The gold was not there.  The poor man was dumb with horror, then, lifting up his h"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Ali Colia, Merchant of Bagdad",
+        "construction": "attributive",
+        "context": "\"Does he want to take my son from me?\" cried the poor woman; but the grand-vizir hastened to calm her, b"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Enchanted Horse",
+        "construction": "attributive",
+        "context": "w to guide it:  but, before he had finished, the young man turned the screw, and was soon out of sight."
+      },
+      {
+        "word": "eldest",
+        "category": "Age",
+        "label": "daughter",
+        "group": "Family",
+        "side": 0,
+        "section": "The Enchanted Horse",
+        "construction": "attributive",
+        "context": "hose mercy Prince Firouz Schah implored was the eldest daughter of the King of Bengal, who was enjoying rest"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Enchanted Horse",
+        "construction": "attributive",
+        "context": "e impossible for us to tell what impression this young man has made on you.  For ourselves, we think yo"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Enchanted Horse",
+        "construction": "attributive",
+        "context": "to be found in Persia. \"Princess,\" observed the young man, \"till now I had always believed that Persia"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "hat marked his accession to the throne, than the young man hastened to throw off his robes of state, an"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "I should have that into the bargain.  You see, my dear sister, my taste is as good as yours.\" It was now t"
+      },
+      {
+        "word": "youngest",
+        "category": "Age",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "as good as yours.\" It was now the turn of the youngest sister, who was by far the most beautiful of the th"
+      },
+      {
+        "word": "elder",
+        "category": "Age",
+        "label": "sisters",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "ugh quite natural, was highly displeasing to the elder sisters, who fell into a passion of jealousy, which"
+      },
+      {
+        "word": "jealous",
+        "category": "Conduct",
+        "label": "sisters",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "imself no longer, and, to the great joy of the jealous sisters, commanded that the Sultana should be execut"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "nded that the Sultana should be executed. But the poor lady was so much beloved at Court that not even t"
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "at the helpless Sultana sitting inside.  But the poor lady bore herself with so much dignity and meekne"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "princes",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "al rank, and soon appointed a tutor to teach the young princes how to read and write.  And the princess, de"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "prayer.  The princess sent orders at once that the old woman was to be taken to the private oratory in th"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "s, and then to be brought before her. Although the old woman was very pious, she was not at all indiffere"
+      },
+      {
+        "word": "good",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "om which surpassed in splendour all the rest. \"My good woman,\" said the princess pointing to a sofa, \"com"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "ing for a few moments with so holy a person.\"  The old woman made some objections to so much honour being"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "she must be tired ordered refreshments. While the old woman was eating, the princess put several questio"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "ting them.\" \"The three things, madam,\" replied the old woman, \"are, first, the Talking Bird, whose voice"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "idding farewell to the princess, went her way. The old woman had taken her departure so abruptly that the"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "me, I pray, whom to send on the undertaking.\" \"My dear sister,\" replied Prince Bahman, \"that you should ca"
+      },
+      {
+        "word": "dear",
+        "category": "Address",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "Water, than that you should run into danger.\" \"My dear sister,\" answered the prince, \"accidents only happe"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "d under a tree by the wayside he noticed a hideous old man, with a long white moustache, and beard that"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "nce Bahman, who, remembering the directions of the old woman, had been since sunrise on the look-out for"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "nrise on the look-out for some one, recognised the old man at once to be a dervish.  He dismounted from"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "the most trying of all, \"he is such a beautiful young man; I am sure the bird and the cage must have b"
+      },
+      {
+        "word": "beloved",
+        "category": "Address",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "ops of blood appeared on the surface.  \"Ah! my beloved brother,\" cried the princess in horror, throwing the"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "s. \"My sister,\" he said, \"why should you think the old woman was deceiving you about these treasures, and"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "and even told him that only a few weeks since a young man, bearing a strong resemblance to himself, ha"
+      },
+      {
+        "word": "elder",
+        "category": "Age",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "t, holy dervish,\" replied Prince Perviz, \"was my elder brother, who is now dead, though how he died I canno"
+      },
+      {
+        "word": "brave",
+        "category": "Intellect & resolve",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "ton from her ears, for it was needed no longer. \"Brave lady,\" answered the bird, \"do not blame me for ha"
+      },
+      {
+        "word": "old",
+        "category": "Age",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "in her hands the three wonders promised her by the old woman, she said to the bird:  \"All that is not eno"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "nd, not wishing to interfere with his sport, the young men, on hearing the noise of the hunt approachin"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "nquired what advice their sister had given.  The young men looked at each other and blushed.  At last P"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "le who crowded the streets were fixed on the two young men, strangers to every one. \"Oh, if only the Su"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "ght be discussing he found that the views of the young men were always worth listening to.  \"If they we"
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "men",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "attributive",
+        "context": "mpatience to see the sister of such accomplished young men you may expect me the day after to-morrow.\""
+      },
+      {
+        "word": "wicked",
+        "category": "Conduct",
+        "label": "women",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "predicate",
+        "context": "lared that he was quite sure that at bottom all women were as wicked as the sultana, if you could only find them out, an",
+        "highlight": [
+          62,
+          6
+        ],
+        "phrase": "women were as wicked",
+        "negated": false,
+        "referenceStatus": "unlinked",
+        "reading": "Schahriar generalizes about women. The subject is a group."
+      },
+      {
+        "word": "clever",
+        "category": "Intellect & resolve",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "predicate",
+        "context": "ts to distinguish her from other girls, but her sister was clever and courageous in the highest degree. Her father ha",
+        "highlight": [
+          59,
+          6
+        ],
+        "phrase": "sister was clever and courageous",
+        "negated": false,
+        "character": "Scheherazade",
+        "rosterSection": 1,
+        "referenceStatus": "verified",
+        "reading": "The preceding sentence names Scheherazade and Dinarzade as sisters. Dinarzade is the antecedent of “her.”"
+      },
+      {
+        "word": "courageous",
+        "category": "Intellect & resolve",
+        "label": "sister",
+        "group": "Family",
+        "side": 0,
+        "section": "The Arabian Nights",
+        "construction": "predicate",
+        "context": "ts to distinguish her from other girls, but her sister was clever and courageous in the highest degree. Her father had given her the",
+        "highlight": [
+          70,
+          10
+        ],
+        "phrase": "sister was clever and courageous",
+        "negated": false,
+        "character": "Scheherazade",
+        "rosterSection": 1,
+        "referenceStatus": "verified",
+        "reading": "The preceding sentence names Scheherazade and Dinarzade as sisters. Dinarzade is the antecedent of “her.”"
+      },
+      {
+        "word": "learned",
+        "category": "Intellect & resolve",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Story of the Greek King and the Physician Douban",
+        "construction": "predicate",
+        "context": "He was very learned in all languages, and knew a great deal about herbs",
+        "highlight": [
+          12,
+          7
+        ],
+        "phrase": "He was very learned",
+        "negated": false,
+        "character": "Douban",
+        "rosterSection": 6,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "jealous",
+        "category": "Conduct",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Story of the Greek King and the Physician Douban",
+        "construction": "predicate",
+        "context": "as avaricious, and envious, and a very bad man. He grew extremely jealous of the physician, and determined to bring about his",
+        "highlight": [
+          66,
+          7
+        ],
+        "phrase": "He grew extremely jealous",
+        "negated": false,
+        "character": "Greek king's vizir",
+        "rosterSection": 6,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "Third Voyage",
+        "construction": "predicate",
+        "context": " more and more distant, we should conclude that he was dead, and that we might safely stay upon the island and ",
+        "highlight": [
+          55,
+          4
+        ],
+        "phrase": "he was dead",
+        "negated": false,
+        "referenceStatus": "unlinked",
+        "reading": "Sindbad is referring to the giant pursuing the raft party. This figure has no human cast entry."
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "predicate",
+        "context": " was so delighted at the news of a patient (for he was young, and had not many of them), that he was transported",
+        "highlight": [
+          55,
+          5
+        ],
+        "phrase": "he was young",
+        "negated": false,
+        "character": "Jewish doctor",
+        "rosterSection": 23,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Little Hunchback",
+        "construction": "predicate",
+        "context": " so still and make no resistance. Then, finding he was quite dead, a cold fear took possession of him. \"Wretch that I",
+        "highlight": [
+          61,
+          4
+        ],
+        "phrase": "he was quite dead",
+        "negated": false,
+        "character": "Hunchback",
+        "rosterSection": 23,
+        "referenceStatus": "verified",
+        "reading": "The purveyor believes that the hunchback is dead."
+      },
+      {
+        "word": "clever",
+        "category": "Intellect & resolve",
+        "label": "brother",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "predicate",
+        "context": "My brother was not clever enough to detect that the old woman had merely refu",
+        "highlight": [
+          19,
+          6
+        ],
+        "phrase": "brother was not clever",
+        "negated": true,
+        "character": "Alnaschar",
+        "rosterSection": 24,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "she",
+        "group": "Pronoun",
+        "side": 0,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "predicate",
+        "context": "d my brother perceived at the first glance that she was even more beautiful and more richly dressed than he had expected. He ro",
+        "highlight": [
+          66,
+          9
+        ],
+        "phrase": "she was even more beautiful",
+        "negated": false,
+        "character": "Woman in the house",
+        "rosterSection": 24,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "predicate",
+        "context": "he still had possession of his senses. Thinking he was dead, the black ordered the Greek slave to bring him som",
+        "highlight": [
+          55,
+          4
+        ],
+        "phrase": "he was dead",
+        "negated": false,
+        "character": "Alnaschar",
+        "rosterSection": 24,
+        "referenceStatus": "verified",
+        "reading": "Alnaschar is conscious, although his attacker believes he is dead."
+      },
+      {
+        "word": "generous",
+        "category": "Conduct",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Story of the Barber's Fifth Brother",
+        "construction": "predicate",
+        "context": "e sight of him. She begged hard for life, which he was generous enough to give her, but he bade her to tell him how",
+        "highlight": [
+          55,
+          8
+        ],
+        "phrase": "he was generous",
+        "negated": false,
+        "character": "Alnaschar",
+        "rosterSection": 24,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "brothers",
+        "group": "Family",
+        "side": 1,
+        "section": "The Story of the Barber's Sixth Brother",
+        "construction": "predicate",
+        "context": "ly returned to Bagdad, only to find that all my brothers were dead. It was at this time that I rendered to the young c",
+        "highlight": [
+          62,
+          4
+        ],
+        "phrase": "brothers were dead",
+        "negated": false,
+        "referenceStatus": "unlinked",
+        "reading": "The barber refers collectively to his brothers."
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "prince",
+        "group": "Royal rank",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "predicate",
+        "context": "\"Sire,\" he replied, \"the prince is still very young for the cares of state. Your Majesty fears his grow",
+        "highlight": [
+          46,
+          5
+        ],
+        "phrase": "prince is still very young",
+        "negated": false,
+        "character": "Camaralzaman",
+        "rosterSection": 26,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "obstinate",
+        "category": "Intellect & resolve",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "predicate",
+        "context": "ize that he will most seriously displease me if he remains obstinate, and that he will certainly regret the measures I s",
+        "highlight": [
+          59,
+          9
+        ],
+        "phrase": "he remains obstinate",
+        "negated": false,
+        "character": "Camaralzaman",
+        "rosterSection": 26,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "princess",
+        "group": "Royal rank",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "predicate",
+        "context": "\"Now you see that my princess is more beautiful than your prince. Can you doubt any longer?\"",
+        "highlight": [
+          38,
+          9
+        ],
+        "phrase": "princess is more beautiful",
+        "negated": false,
+        "character": "Badoura",
+        "rosterSection": 26,
+        "referenceStatus": "verified",
+        "reading": "Danhasch is comparing Badoura with Camaralzaman."
+      },
+      {
+        "word": "handsome",
+        "category": "Appearance",
+        "label": "princess",
+        "group": "Royal rank",
+        "side": 0,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "predicate",
+        "context": "e excels your princess. I do not deny that your princess is very handsome, but only look and you must own that I am in the ri",
+        "highlight": [
+          65,
+          8
+        ],
+        "phrase": "princess is very handsome",
+        "negated": false,
+        "character": "Badoura",
+        "rosterSection": 26,
+        "referenceStatus": "verified",
+        "reading": "Maimoune addresses Danhasch and refers to Badoura."
+      },
+      {
+        "word": "poor",
+        "category": "Condition & status",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "construction": "predicate",
+        "context": "\"In order to satisfy him and as he is so poor,\" said the princess, \"I will order a thousand piece",
+        "highlight": [
+          41,
+          4
+        ],
+        "phrase": "he is so poor",
+        "negated": false,
+        "character": "Camaralzaman",
+        "rosterSection": 26,
+        "referenceStatus": "verified",
+        "reading": "Badoura refers to the merchant the captain has just described. The preceding scene identifies him as Camaralzaman."
+      },
+      {
+        "word": "young",
+        "category": "Age",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "construction": "predicate",
+        "context": "t freely in and out of his mother's apartments. He was young, well-made and agreeable, and had the gift of charm",
+        "highlight": [
+          55,
+          5
+        ],
+        "phrase": "He was young",
+        "negated": false,
+        "character": "Noureddin",
+        "rosterSection": 27,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "predicate",
+        "context": "your father had a brother, but I always thought he was dead.\"",
+        "highlight": [
+          55,
+          4
+        ],
+        "phrase": "he was dead",
+        "negated": false,
+        "referenceStatus": "unlinked",
+        "reading": "Aladdin’s mother refers to his father’s brother. The magician is impersonating that brother, whose identity has no separate roster entry."
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "she",
+        "group": "Pronoun",
+        "side": 0,
+        "section": "Aladdin and the Wonderful Lamp",
+        "construction": "predicate",
+        "context": "d-dress of diamonds, and seeing in a glass that she looked more beautiful than ever, received the magician, saying to his gre",
+        "highlight": [
+          64,
+          9
+        ],
+        "phrase": "she looked more beautiful",
+        "negated": false,
+        "character": "Sultan's daughter",
+        "rosterSection": 28,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "wise",
+        "category": "Intellect & resolve",
+        "label": "man",
+        "group": "Other labels",
+        "side": 1,
+        "section": "The Story of Ali Colia, Merchant of Bagdad",
+        "construction": "predicate",
+        "context": "\"If this man was wise he would take these things to Cairo, where he would",
+        "highlight": [
+          17,
+          4
+        ],
+        "phrase": "man was wise",
+        "negated": false,
+        "character": "Ali Cogia",
+        "rosterSection": 32,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "beautiful",
+        "category": "Appearance",
+        "label": "she",
+        "group": "Pronoun",
+        "side": 0,
+        "section": "The Enchanted Horse",
+        "construction": "predicate",
+        "context": " side of her bed he looked at her, and saw that she was more beautiful than any woman he had ever beheld. But, fascinated ",
+        "highlight": [
+          61,
+          9
+        ],
+        "phrase": "she was more beautiful",
+        "negated": false,
+        "character": "Princess of Bengal",
+        "rosterSection": 33,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "beloved",
+        "category": "Address",
+        "label": "lady",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "predicate",
+        "context": "at the Sultana should be executed. But the poor lady was so much beloved at Court that not even the dread of sharing her fat",
+        "highlight": [
+          65,
+          7
+        ],
+        "phrase": "lady was so much beloved",
+        "negated": false,
+        "character": "Youngest sister (Sultana)",
+        "rosterSection": 34,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "pious",
+        "category": "Conduct",
+        "label": "woman",
+        "group": "Other labels",
+        "side": 0,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "predicate",
+        "context": "Although the old woman was very pious, she was not at all indifferent to the magnificence",
+        "highlight": [
+          32,
+          5
+        ],
+        "phrase": "woman was very pious",
+        "negated": false,
+        "character": "Old pilgrim",
+        "rosterSection": 34,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "he",
+        "group": "Pronoun",
+        "side": 1,
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "construction": "predicate",
+        "context": "he dervish, but they found to their sorrow that he was dead, whether from old age, or whether from the feeling ",
+        "highlight": [
+          55,
+          4
+        ],
+        "phrase": "he was dead",
+        "negated": false,
+        "character": "Dervish who advises the siblings",
+        "rosterSection": 34,
+        "referenceStatus": "verified"
+      },
+      {
+        "word": "kind",
+        "category": "Conduct",
+        "label": "Khacan",
+        "group": "Character name",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "character": "Khacan",
+        "rosterSection": 27,
+        "construction": "named",
+        "context": "Khacan was kind, generous, and liberal, and took pleasure in obligi",
+        "highlight": [
+          11,
+          4
+        ],
+        "phrase": "Khacan was kind, generous",
+        "negated": false,
+        "reading": "Narrator characterizes Khacan directly."
+      },
+      {
+        "word": "generous",
+        "category": "Conduct",
+        "label": "Khacan",
+        "group": "Character name",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "character": "Khacan",
+        "rosterSection": 27,
+        "construction": "named",
+        "context": "Khacan was kind, generous, and liberal, and took pleasure in obliging, as far",
+        "highlight": [
+          17,
+          8
+        ],
+        "phrase": "Khacan was kind, generous",
+        "negated": false,
+        "reading": "Coordinated adjective in the same description of Khacan."
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "Noureddin",
+        "group": "Character name",
+        "side": 1,
+        "section": "Noureddin and the Fair Persian",
+        "character": "Noureddin",
+        "rosterSection": 27,
+        "construction": "named",
+        "context": "m to make for Balsora with the utmost speed--if Noureddin were dead, to hang Saouy; if he were still alive, to bring hi",
+        "highlight": [
+          63,
+          4
+        ],
+        "phrase": "Noureddin were dead",
+        "negated": false,
+        "reading": "Conditional wording in instructions sent to Balsora."
+      },
+      {
+        "word": "dead",
+        "category": "Condition & status",
+        "label": "Aladdin",
+        "group": "Character name",
+        "side": 1,
+        "section": "Aladdin and the Wonderful Lamp",
+        "character": "Aladdin",
+        "rosterSection": 28,
+        "construction": "named",
+        "context": "s great amazement: \"I have made up my mind that Aladdin is dead, and that all my tears will not bring him back to m",
+        "highlight": [
+          59,
+          4
+        ],
+        "phrase": "Aladdin is dead",
+        "negated": false,
+        "reading": "Aladdin’s mother voices her belief while he is absent."
+      }
+    ],
+    "sha256": "718e2ea4a31d4b4f135d6d8647d2c54e5014e403b001e263fcc93dc9207ca0c1"
+  },
+  "predicateReview": {
+    "candidates": 29,
+    "retained": 26,
+    "excluded": [
+      {
+        "candidate": {
+          "word": "jealous",
+          "category": "Conduct",
+          "label": "he",
+          "group": "Pronoun",
+          "side": 1,
+          "section": "The Story of the Second Calendar, Son of a King",
+          "construction": "predicate",
+          "context": " day, when I am expecting my master the genius. He is very jealous, as you know, and will not suffer a man to come nea",
+          "highlight": [
+            59,
+            7
+          ],
+          "phrase": "He is very jealous",
+          "negated": false
+        },
+        "reason": "He refers to the genius, a nonhuman figure."
+      },
+      {
+        "candidate": {
+          "word": "dead",
+          "category": "Condition & status",
+          "label": "he",
+          "group": "Pronoun",
+          "side": 1,
+          "section": "The Story of the Envious Man and of Him Who Was Envied",
+          "construction": "predicate",
+          "context": "showed the genius that I knew more than he did. He is dead and in ashes, but my own death is approaching fast.",
+          "highlight": [
+            54,
+            4
+          ],
+          "phrase": "He is dead",
+          "negated": false
+        },
+        "reason": "He refers to a genius."
+      },
+      {
+        "candidate": {
+          "word": "good",
+          "category": "Conduct",
+          "label": "caliph",
+          "group": "Royal rank",
+          "side": 1,
+          "section": "Noureddin and the Fair Persian",
+          "construction": "predicate",
+          "context": "his the beautiful Persian took courage, and the Caliph was as good as his word, recommending her to the care of his wi",
+          "highlight": [
+            62,
+            4
+          ],
+          "phrase": "Caliph was as good",
+          "negated": false
+        },
+        "reason": "As good as his word is an idiom about keeping a promise."
+      }
+    ]
+  },
+  "characterAliases": [
+    {
+      "character": "Scheherazade",
+      "aliases": [
+        "Scheherazade"
+      ],
+      "side": 0,
+      "rosterSection": 1
+    },
+    {
+      "character": "Dinarzade",
+      "aliases": [
+        "Dinarzade"
+      ],
+      "side": 0,
+      "rosterSection": 1
+    },
+    {
+      "character": "Schahriar",
+      "aliases": [
+        "Schahriar"
+      ],
+      "side": 1,
+      "rosterSection": 1
+    },
+    {
+      "character": "Schahzeman (frame)",
+      "aliases": [
+        "Schahzeman"
+      ],
+      "side": 1,
+      "rosterSection": 1
+    },
+    {
+      "character": "Douban",
+      "aliases": [
+        "Douban",
+        "physician Douban"
+      ],
+      "side": 1,
+      "rosterSection": 6
+    },
+    {
+      "character": "King Sindbad",
+      "aliases": [
+        "King Sindbad"
+      ],
+      "side": 1,
+      "rosterSection": 6
+    },
+    {
+      "character": "Mahmoud",
+      "aliases": [
+        "Mahmoud"
+      ],
+      "side": 1,
+      "rosterSection": 9
+    },
+    {
+      "character": "Zobeida",
+      "aliases": [
+        "Zobeida"
+      ],
+      "side": 0,
+      "rosterSection": 10
+    },
+    {
+      "character": "Amina (Baghdad)",
+      "aliases": [
+        "Amina"
+      ],
+      "side": 0,
+      "rosterSection": 10,
+      "scope": [
+        "The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad"
+      ]
+    },
+    {
+      "character": "Sadie (also Sadia)",
+      "aliases": [
+        "Sadie",
+        "Sadia"
+      ],
+      "side": 0,
+      "rosterSection": 10
+    },
+    {
+      "character": "Haroun-al-Raschid",
+      "aliases": [
+        "Haroun-al-Raschid",
+        "Haroun al Raschid",
+        "Haroun al-Raschid"
+      ],
+      "side": 1,
+      "rosterSection": 10
+    },
+    {
+      "character": "Giafar",
+      "aliases": [
+        "Giafar"
+      ],
+      "side": 1,
+      "rosterSection": 10
+    },
+    {
+      "character": "Mesrour",
+      "aliases": [
+        "Mesrour"
+      ],
+      "side": 1,
+      "rosterSection": 10
+    },
+    {
+      "character": "Agib (Third Calender)",
+      "aliases": [
+        "Agib"
+      ],
+      "side": 1,
+      "rosterSection": 10
+    },
+    {
+      "character": "Queen of Beauty",
+      "aliases": [
+        "Queen of Beauty"
+      ],
+      "side": 0,
+      "rosterSection": 13
+    },
+    {
+      "character": "Cassib",
+      "aliases": [
+        "Cassib"
+      ],
+      "side": 1,
+      "rosterSection": 14
+    },
+    {
+      "character": "Sindbad the Sailor",
+      "aliases": [
+        "Sindbad the Sailor",
+        "Sindbad"
+      ],
+      "side": 1,
+      "rosterSection": 15
+    },
+    {
+      "character": "Hindbad",
+      "aliases": [
+        "Hindbad"
+      ],
+      "side": 1,
+      "rosterSection": 15
+    },
+    {
+      "character": "King Mihrage",
+      "aliases": [
+        "King Mihrage",
+        "Mihrage"
+      ],
+      "side": 1,
+      "rosterSection": 16
+    },
+    {
+      "character": "Alnaschar",
+      "aliases": [
+        "Alnaschar"
+      ],
+      "side": 1,
+      "rosterSection": 24
+    },
+    {
+      "character": "Schacabac",
+      "aliases": [
+        "Schacabac"
+      ],
+      "side": 1,
+      "rosterSection": 25
+    },
+    {
+      "character": "Barmecide",
+      "aliases": [
+        "Barmecide"
+      ],
+      "side": 1,
+      "rosterSection": 25
+    },
+    {
+      "character": "Badoura",
+      "aliases": [
+        "Badoura",
+        "Princess Badoura",
+        "Princess of China"
+      ],
+      "side": 0,
+      "rosterSection": 26
+    },
+    {
+      "character": "Haiatelnefous",
+      "aliases": [
+        "Haiatelnefous",
+        "Princess Haiatelnefous"
+      ],
+      "side": 0,
+      "rosterSection": 26
+    },
+    {
+      "character": "Camaralzaman",
+      "aliases": [
+        "Camaralzaman",
+        "Prince Camaralzaman"
+      ],
+      "side": 1,
+      "rosterSection": 26
+    },
+    {
+      "character": "Schahzaman (Khaledan)",
+      "aliases": [
+        "Schahzaman",
+        "King Schahzaman"
+      ],
+      "side": 1,
+      "rosterSection": 26
+    },
+    {
+      "character": "Marzavan",
+      "aliases": [
+        "Marzavan"
+      ],
+      "side": 1,
+      "rosterSection": 26
+    },
+    {
+      "character": "King Armanos",
+      "aliases": [
+        "King Armanos",
+        "Armanos"
+      ],
+      "side": 1,
+      "rosterSection": 26
+    },
+    {
+      "character": "Fair Persian",
+      "aliases": [
+        "Fair Persian"
+      ],
+      "side": 0,
+      "rosterSection": 27
+    },
+    {
+      "character": "Noureddin",
+      "aliases": [
+        "Noureddin"
+      ],
+      "side": 1,
+      "rosterSection": 27
+    },
+    {
+      "character": "Khacan",
+      "aliases": [
+        "Khacan"
+      ],
+      "side": 1,
+      "rosterSection": 27
+    },
+    {
+      "character": "Saouy",
+      "aliases": [
+        "Saouy"
+      ],
+      "side": 1,
+      "rosterSection": 27
+    },
+    {
+      "character": "Mohammed Zinebi",
+      "aliases": [
+        "Mohammed Zinebi",
+        "Zinebi"
+      ],
+      "side": 1,
+      "rosterSection": 27
+    },
+    {
+      "character": "Hagi Hassan",
+      "aliases": [
+        "Hagi Hassan"
+      ],
+      "side": 1,
+      "rosterSection": 27
+    },
+    {
+      "character": "Scheih Ibrahim",
+      "aliases": [
+        "Scheih Ibrahim"
+      ],
+      "side": 1,
+      "rosterSection": 27
+    },
+    {
+      "character": "Aladdin",
+      "aliases": [
+        "Aladdin"
+      ],
+      "side": 1,
+      "rosterSection": 28
+    },
+    {
+      "character": "Fatima",
+      "aliases": [
+        "Fatima"
+      ],
+      "side": 0,
+      "rosterSection": 28
+    },
+    {
+      "character": "Baba-Abdalla",
+      "aliases": [
+        "Baba-Abdalla"
+      ],
+      "side": 1,
+      "rosterSection": 29
+    },
+    {
+      "character": "Sidi-Nouman",
+      "aliases": [
+        "Sidi-Nouman"
+      ],
+      "side": 1,
+      "rosterSection": 29
+    },
+    {
+      "character": "Amina (Sidi-Nouman’s wife, supernatural status ambiguous)",
+      "aliases": [
+        "Amina"
+      ],
+      "side": 0,
+      "rosterSection": 31,
+      "scope": [
+        "The Story of Sidi-Nouman"
+      ]
+    },
+    {
+      "character": "Ali Cogia",
+      "aliases": [
+        "Ali Cogia",
+        "Ali Colia"
+      ],
+      "side": 1,
+      "rosterSection": 32
+    },
+    {
+      "character": "Princess of Bengal",
+      "aliases": [
+        "Princess of Bengal"
+      ],
+      "side": 0,
+      "rosterSection": 33
+    },
+    {
+      "character": "Firouz Schah",
+      "aliases": [
+        "Firouz Schah",
+        "Prince Firouz Schah"
+      ],
+      "side": 1,
+      "rosterSection": 33
+    },
+    {
+      "character": "Parizade",
+      "aliases": [
+        "Parizade",
+        "Princess Parizade"
+      ],
+      "side": 0,
+      "rosterSection": 34
+    },
+    {
+      "character": "Kosrouschah",
+      "aliases": [
+        "Kosrouschah"
+      ],
+      "side": 1,
+      "rosterSection": 34
+    },
+    {
+      "character": "Bahman",
+      "aliases": [
+        "Bahman",
+        "Prince Bahman"
+      ],
+      "side": 1,
+      "rosterSection": 34
+    },
+    {
+      "character": "Perviz",
+      "aliases": [
+        "Perviz",
+        "Prince Perviz"
+      ],
+      "side": 1,
+      "rosterSection": 34
+    }
+  ],
+  "namedReview": {
+    "candidates": 4,
+    "retained": 4,
+    "notes": [
+      "Narrator characterizes Khacan directly.",
+      "Coordinated adjective in the same description of Khacan.",
+      "Conditional wording in instructions sent to Balsora.",
+      "Aladdin’s mother voices her belief while he is absent."
+    ]
+  },
+  "referenceReview": {
+    "scope": "Existing noun- and pronoun-subject linking-verb matches",
+    "reviewed": 26,
+    "linked": 22,
+    "records": [
+      {
+        "section": "The Arabian Nights",
+        "phrase": "women were as wicked",
+        "word": "wicked",
+        "character": null,
+        "rosterSection": null,
+        "note": "Schahriar generalizes about women. The subject is a group."
+      },
+      {
+        "section": "The Arabian Nights",
+        "phrase": "sister was clever and courageous",
+        "word": "clever",
+        "character": "Scheherazade",
+        "rosterSection": 1,
+        "note": "The preceding sentence names Scheherazade and Dinarzade as sisters. Dinarzade is the antecedent of “her.”"
+      },
+      {
+        "section": "The Arabian Nights",
+        "phrase": "sister was clever and courageous",
+        "word": "courageous",
+        "character": "Scheherazade",
+        "rosterSection": 1,
+        "note": "The preceding sentence names Scheherazade and Dinarzade as sisters. Dinarzade is the antecedent of “her.”"
+      },
+      {
+        "section": "The Story of the Greek King and the Physician Douban",
+        "phrase": "He was very learned",
+        "word": "learned",
+        "character": "Douban",
+        "rosterSection": 6,
+        "note": null
+      },
+      {
+        "section": "The Story of the Greek King and the Physician Douban",
+        "phrase": "He grew extremely jealous",
+        "word": "jealous",
+        "character": "Greek king's vizir",
+        "rosterSection": 6,
+        "note": null
+      },
+      {
+        "section": "Third Voyage",
+        "phrase": "he was dead",
+        "word": "dead",
+        "character": null,
+        "rosterSection": null,
+        "note": "Sindbad is referring to the giant pursuing the raft party. This figure has no human cast entry."
+      },
+      {
+        "section": "The Little Hunchback",
+        "phrase": "he was young",
+        "word": "young",
+        "character": "Jewish doctor",
+        "rosterSection": 23,
+        "note": null
+      },
+      {
+        "section": "The Little Hunchback",
+        "phrase": "he was quite dead",
+        "word": "dead",
+        "character": "Hunchback",
+        "rosterSection": 23,
+        "note": "The purveyor believes that the hunchback is dead."
+      },
+      {
+        "section": "The Story of the Barber's Fifth Brother",
+        "phrase": "brother was not clever",
+        "word": "clever",
+        "character": "Alnaschar",
+        "rosterSection": 24,
+        "note": null
+      },
+      {
+        "section": "The Story of the Barber's Fifth Brother",
+        "phrase": "she was even more beautiful",
+        "word": "beautiful",
+        "character": "Woman in the house",
+        "rosterSection": 24,
+        "note": null
+      },
+      {
+        "section": "The Story of the Barber's Fifth Brother",
+        "phrase": "he was dead",
+        "word": "dead",
+        "character": "Alnaschar",
+        "rosterSection": 24,
+        "note": "Alnaschar is conscious, although his attacker believes he is dead."
+      },
+      {
+        "section": "The Story of the Barber's Fifth Brother",
+        "phrase": "he was generous",
+        "word": "generous",
+        "character": "Alnaschar",
+        "rosterSection": 24,
+        "note": null
+      },
+      {
+        "section": "The Story of the Barber's Sixth Brother",
+        "phrase": "brothers were dead",
+        "word": "dead",
+        "character": null,
+        "rosterSection": null,
+        "note": "The barber refers collectively to his brothers."
+      },
+      {
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "phrase": "prince is still very young",
+        "word": "young",
+        "character": "Camaralzaman",
+        "rosterSection": 26,
+        "note": null
+      },
+      {
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "phrase": "he remains obstinate",
+        "word": "obstinate",
+        "character": "Camaralzaman",
+        "rosterSection": 26,
+        "note": null
+      },
+      {
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "phrase": "princess is more beautiful",
+        "word": "beautiful",
+        "character": "Badoura",
+        "rosterSection": 26,
+        "note": "Danhasch is comparing Badoura with Camaralzaman."
+      },
+      {
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "phrase": "princess is very handsome",
+        "word": "handsome",
+        "character": "Badoura",
+        "rosterSection": 26,
+        "note": "Maimoune addresses Danhasch and refers to Badoura."
+      },
+      {
+        "section": "The Adventures of Prince Camaralzaman and the Princess Badoura",
+        "phrase": "he is so poor",
+        "word": "poor",
+        "character": "Camaralzaman",
+        "rosterSection": 26,
+        "note": "Badoura refers to the merchant the captain has just described. The preceding scene identifies him as Camaralzaman."
+      },
+      {
+        "section": "Noureddin and the Fair Persian",
+        "phrase": "He was young",
+        "word": "young",
+        "character": "Noureddin",
+        "rosterSection": 27,
+        "note": null
+      },
+      {
+        "section": "Aladdin and the Wonderful Lamp",
+        "phrase": "he was dead",
+        "word": "dead",
+        "character": null,
+        "rosterSection": null,
+        "note": "Aladdin’s mother refers to his father’s brother. The magician is impersonating that brother, whose identity has no separate roster entry."
+      },
+      {
+        "section": "Aladdin and the Wonderful Lamp",
+        "phrase": "she looked more beautiful",
+        "word": "beautiful",
+        "character": "Sultan's daughter",
+        "rosterSection": 28,
+        "note": null
+      },
+      {
+        "section": "The Story of Ali Colia, Merchant of Bagdad",
+        "phrase": "man was wise",
+        "word": "wise",
+        "character": "Ali Cogia",
+        "rosterSection": 32,
+        "note": null
+      },
+      {
+        "section": "The Enchanted Horse",
+        "phrase": "she was more beautiful",
+        "word": "beautiful",
+        "character": "Princess of Bengal",
+        "rosterSection": 33,
+        "note": null
+      },
+      {
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "phrase": "lady was so much beloved",
+        "word": "beloved",
+        "character": "Youngest sister (Sultana)",
+        "rosterSection": 34,
+        "note": null
+      },
+      {
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "phrase": "woman was very pious",
+        "word": "pious",
+        "character": "Old pilgrim",
+        "rosterSection": 34,
+        "note": null
+      },
+      {
+        "section": "The Story of Two Sisters Who Were Jealous of Their Younger Sister",
+        "phrase": "he was dead",
+        "word": "dead",
+        "character": "Dervish who advises the siblings",
+        "rosterSection": 34,
+        "note": null
+      }
+    ]
+  }
+}
